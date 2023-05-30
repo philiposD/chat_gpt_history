@@ -1,6 +1,8 @@
 # chat_gpt_dashboard
 
 A new Flutter project.
+-- Taking it from the start using the clean architecture prototype design
+-- Having this separated in: presentation ,domain, data layers.
 
 ## Getting Started
 
